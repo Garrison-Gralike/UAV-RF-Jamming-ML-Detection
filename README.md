@@ -96,6 +96,14 @@ Confusion matrices for both models are provided in the figures/ directory and il
 - Model choice should reflect operational priorities.  
 - Larger-scale evaluation using high-performance computing is an important next step.
 
+## Paper
+
+A detailed description of the methodology, dataset preprocessing, model design, and experimental results is provided in the accompanying paper:
+
+**Detecting Radio Frequency Jamming Attacks on Unmanned Aerial Vehicles Using Machine Learning**  
+Garrison Gralike, Florida State University  
+[PDF](Report/Gralike_Detecting_RF_Jamming_Using_ML_Report.pdf)
+
 
 ## Future Work
 
